@@ -1,4 +1,5 @@
 
+
 export const Bio = {
   name: "Dattatray Mangrulkar",
   roles: [
@@ -10,7 +11,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/DattatrayMangrulkar",
   resume:
-    "https://drive.google.com/file/d/1YAenY1-_pGmF7CFx1rrgJvU6V4zOpgJf/view?usp=drive_link",
+    "https://drive.google.com/drive/folders/1WuSY3J7oyGtcn_jDtbWDdTkCrcrZaMp3",
   linkedin: "www.linkedin.com/in/dattatray-mangrulkar-944b5127b",
 };
 
